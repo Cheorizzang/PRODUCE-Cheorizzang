@@ -1,4 +1,4 @@
-# Produce-Cheorizzang
+# PRODUCE Cheorizzang
 
 ## 당신의 철이를 골라보세요 !
 
